@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017058501013",
+    "project_id": "sign-in-with-3963d",
+    "storage_bucket": "sign-in-with-3963d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017058501013:android:4e1888b8ca94d2672e169c",
+        "android_client_info": {
+          "package_name": "com.karimdiv.signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9hwm1P2z-g84BqjD-o6TtQmLuJNXHg70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
